@@ -36,7 +36,8 @@ func printShirtDetails(s IShirt) {
 	fmt.Println()
 }
 
-/* 実行結果
+/*
+実行結果
 Logo: nike
 Size: 14
 Logo: nike
