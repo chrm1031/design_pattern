@@ -42,6 +42,6 @@
 
 ## 引用元
 
-> https://refactoring.guru/ja/design-patterns/prototype
-> https://refactoring.guru/images/patterns/content/prototype/prototype.png
-> https://refactoring.guru/images/patterns/diagrams/prototype/structure-indexed.png
+> https://refactoring.guru/ja/design-patterns/facade
+> https://refactoring.guru/images/patterns/content/facade/facade.png
+> https://refactoring.guru/images/patterns/diagrams/facade/structure-indexed.png
