@@ -1,9 +1,9 @@
-package decorator
+package bridge
 
 import "testing"
 
 func TestMain(t *testing.T) {
-	t.Run("decorator test", func(t *testing.T) {
+	t.Run("bridge test", func(t *testing.T) {
 		main()
 	})
 }
